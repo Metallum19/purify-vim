@@ -25,7 +25,7 @@
 You can install purify easily if you are using [vim-plug](https://github.com/junegunn/vim-plug):
 
 ```vim
-Plug 'kyoz/purify', { 'rtp': 'vim' }
+Plug 'Metallum19/purify'
 ```
 
 **Note**: Other vim plugin manager have similar installation, just remember `rtp` option
